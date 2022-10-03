@@ -1,7 +1,7 @@
 # Zipfs Law 
 
-In this exercise Zipf's law has been implemented and verified. Zipf's Law states that when words are ranked by their frequency, the 
-frequency of a particular observation is inversely proportional to its rank. For each corpus, compute a list of unique words was sorted by descending frequency. Matplotlib was used to plot the frequency curves for the corpora, one plot with linear axes and another one with log-log axes. Corpora used:
+In this exercise Zipf's law has been implemented and verified. Zipf's Law states that when words are ranked by their frequency, the frequency of 
+a particular observation is inversely proportional to its rank. For each corpus, compute a list of unique words was sorted by descending frequency. Matplotlib was used to plot the frequency curves for the corpora, one plot with linear axes and another one with log-log axes. Corpora used:
 
 - King James Bible 
 - The Jungle Book 
