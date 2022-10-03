@@ -1,13 +1,16 @@
 # Zipfs Law 
 
-Zipf's Law states that when words are ranked by their frequency, the frequency of a particular observation is inversely proportional to its rank
+*In this exercise Zipf's law has been implemented and verified. Zipf's Law states that when words are ranked by their frequency, the frequency of a particular observation is inversely proportional to its rank. Corpora used:
 
-In this exercise Zipf's law has been implemented and verified based on the following freely available corpora:
-
-- King James Bible (in Moodle)
-- The Jungle Book (in Moodle)
+- King James Bible 
+- The Jungle Book 
 - SETIMES Turkish-Bulgarian parallel newspaper text
 
-For each corpus, compute a list of unique words was sorted by descending frequency. Matplotlib was used to plot the frequency curves for the corpora, one plot with linear axes and another one with log-log axes
+*For each corpus, compute a list of unique words was sorted by descending frequency. Matplotlib was used to plot the frequency curves for the corpora, one plot with linear axes and another one with log-log axes
 
 # Random Text Generation
+
+*This exercise is a reimplementation of the “Dissociated Press” system, aiming at generating random text from an n-gram model over a corpus.
+Based on this system a number of text samples, 100 words in length per each was produced. N was varied from 2 to 4. Corpus used:
+
+- War and Peace
