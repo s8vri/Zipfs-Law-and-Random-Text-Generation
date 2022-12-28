@@ -31,9 +31,9 @@ Based on this system a number of text samples, 100 words in length per each, was
  
  
 ### Requirements: 
-               python 3.8.5
-               matplotlib 3.3.3
-               nltk 3.5
+          python 3.8.5
+          matplotlib 3.3.3
+          nltk 3.5
                
 ### System Details: 
         	 OS Ubuntu 20.04.1 LTS
