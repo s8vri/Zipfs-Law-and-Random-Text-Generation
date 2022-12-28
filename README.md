@@ -18,3 +18,23 @@ Based on this system a number of text samples, 100 words in length per each, was
 *Data set:*
 
 - War and Peace
+
+# Project Structure
+
+ - Zips's_Law.ipynb
+
+ - Random_Text_Generation.ipynb
+
+ - data/Warandpeace.txt
+ 
+ - README.md
+ 
+ 
+### Requirements: 
+               python 3.8.5
+               matplotlib 3.3.3
+               nltk 3.5
+               
+### System Details:
+               OS Ubuntu 20.04.1 LTS
+ 		           OS type 64 bit
