@@ -36,5 +36,5 @@ Based on this system a number of text samples, 100 words in length per each, was
                nltk 3.5
                
 ### System Details: 
-        	OS Ubuntu 20.04.1 LTS
- 	       OS type 64 bit
+        	 OS Ubuntu 20.04.1 LTS
+ 	        OS type 64 bit
