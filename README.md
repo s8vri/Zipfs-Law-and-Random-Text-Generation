@@ -25,7 +25,7 @@ Based on this system a number of text samples, 100 words in length per each, was
 
  - Random_Text_Generation.ipynb
 
- - data/Warandpeace.txt
+ - data
  
  - README.md
  
